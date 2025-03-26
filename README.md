@@ -1,4 +1,5 @@
 # LibraryManagementSystem
 
-compile using javac LibraryManagementSystem.java /n
-then run using java LibraryManagementSystem
+compile using javac LibraryManagementSystem.java
+
+  then run using java LibraryManagementSystem
